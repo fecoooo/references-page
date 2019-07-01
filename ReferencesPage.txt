@@ -1,0 +1,4 @@
+key features:
+	- fast --> angular + load once
+	- responsive
+	- bootstrap --> supported by all browsers, uniform, standardized
