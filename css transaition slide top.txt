@@ -1,0 +1,8 @@
+.slide-top {
+	bottom: 0;
+	transition: bottom 0.5s ease;
+}
+
+.slide-top:hover {
+	bottom: 20px;
+}
